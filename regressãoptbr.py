@@ -1,3 +1,4 @@
+#esse código é o mesmo da versão em inglês!
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
